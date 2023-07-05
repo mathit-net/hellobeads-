@@ -1,2 +1,2 @@
-# hellobeads-
+# hellobeads-.git.io
 website pertama
